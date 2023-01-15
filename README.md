@@ -2,7 +2,7 @@
 
 [KFHardPat V3]: https://github.com/InsultingPros/KFHardPatF
 
-![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/KFHardPatAddon/total)
+[![GitHub all releases](https://img.shields.io/github/downloads/InsultingPros/KFHardPatAddon/total)](https://github.com/InsultingPros/KFHardPatAddon/releases)
 
 > N.B. You can not use both mutators at the same time, only one of them.
 
