@@ -1,3 +1,6 @@
+// Author        : Shtoyan
+// Home Repo     : https://github.com/InsultingPros/KFHardPatAddon
+// License       : https://www.gnu.org/licenses/gpl-3.0.en.html
 class SeveredArmVampriarch extends SeveredArm;
 
 defaultproperties {
